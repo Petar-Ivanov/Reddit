@@ -1,4 +1,4 @@
-# <img src="Petar-Ivanov/Reddit/reddit-power-bi/users_power_bi.png" width="22"> Reddit
+Reddit
 **Reddit is a network of communities where people can dive into their interests, hobbies and passions.**
 
 Software Modeling and Analysis Project
@@ -22,5 +22,3 @@ Software Modeling and Analysis Project
 **Power BI:**
 
 - Visualizations of user statistics.
-
-<img src="Petar-Ivanov/Reddit/reddit-power-bi/users_power_bi.png" width="800">
