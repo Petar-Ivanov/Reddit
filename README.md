@@ -1,4 +1,4 @@
-Reddit
+# Reddit
 **Reddit is a network of communities where people can dive into their interests, hobbies and passions.**
 
 Software Modeling and Analysis Project
